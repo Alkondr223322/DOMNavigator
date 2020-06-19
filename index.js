@@ -1,3 +1,8 @@
+import html from "./index.html";
+import "./style.css";
+import "./panel.css";
+import "./blossoms.jpg";
+
 const findBySelectorButton = document.querySelector(".selector-find");
 const findNextButton = document.querySelector(".selector-next");
 const findPreviousButton = document.querySelector(".selector-prev");
